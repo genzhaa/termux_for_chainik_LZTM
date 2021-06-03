@@ -3,7 +3,7 @@ print()
 print()
 
 
-import time
+ importtime
 from time import sleep
 
 
@@ -28,15 +28,16 @@ while b<a:
      sleep (0.3)
      b += 1
 print()
-print( "\033[0;36;40m\nInstaling successfull..........!!" )
+print( "\033[0;36;40m\Instaling successfull..........!!" )
 print()
 print()
 print()
-print("\033[0;32;40m\n !......▆▆         ▆▆.....!")
-print("\033[0;32;40m\n !......▆▆         ▆▆.....!")
-print("\033[0;31;40m\n !......▆▆▆▆▆▆▆▆▆▆▆▆.....!")
-print("\033[0;32;40m\n !......▆▆         ▆▆.....!")
-print("\033[0;32;40m\n !......▆▆         ▆▆.....!")
+print("\033[0;196;40m\n ░░░░░░░██████╗░███████╗██████╗░░")
+print("\033[0;196;40m\n ░░██╗░░██╔══██╗██╔════╝██╔══██╗░")
+print("\033[0;196;40m\n ██████╗██████╔╝█████╗░░██████╔╝░")
+print("\033[0;196;40m\n ╚═██╔═╝██╔══██╗██╔══╝░░██╔═══╝░░")
+print("\033[0;196;40m\n ░░╚═╝░░██║░░██║███████╗██║░░░░░░")
+print("\033[0;196;40m\n ░░░░░░░╚═╝░░╚═╝╚══════╝╚═╝░░░░░░")
 print()
 print()
 
@@ -48,7 +49,7 @@ x=str(input("Enter The Hijack Group link :-"))
 print()
 print()
 
-import time
+ importtime
 from time import sleep
 x=100
 y=3
@@ -73,13 +74,13 @@ import os
 
 os.system("")
 import os
-import time
+ importtime
 os.system("figlet -f banner HIJACKER |lolcat -a -d 3")
 print()
 from time import sleep
 x= 300
 y= 0
-while x>y :
+while x>>y :
         print ("\033[0;32;40m\nAttempt.... ", 1+y)
         sleep (0.3)
         y+=1
